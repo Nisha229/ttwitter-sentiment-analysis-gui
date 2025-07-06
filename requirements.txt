@@ -2,3 +2,5 @@ streamlit
 tweepy
 flair
 torch
+sentencepiece==0.1.99
+
