@@ -1,6 +1,6 @@
 streamlit
 tweepy
-flair==0.12
-torch
-
+flair==0.11.3
+torch==1.13.1
+sentencepiece==0.1.99
 
