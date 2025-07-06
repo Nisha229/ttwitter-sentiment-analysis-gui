@@ -1,6 +1,6 @@
 streamlit
 tweepy
-flair
+flair==0.12
 torch
 
 
